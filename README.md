@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a web app launching soon
+:relaxed: 
+:smirk:Great projects in the kitchen :joy:
 <!--
 **K-NURF/K-NURF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
