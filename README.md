@@ -1,8 +1,13 @@
 ### Hi there 👋
+---
 
-🔭 
+* 🔭 I'm Franklin
+* 🌱 I'm currently a Student doing Computer Science
+* 📫 How to reach me: franklinkaranja747@gmail.com
+* ⚡ Fun fact: I'm a car enthusiast
+
 :relaxed: 
-:smirk:Great projects in the kitchen :joy:
+:smirk:Cooking up game-changing things
 <!--
 **K-NURF/K-NURF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
