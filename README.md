@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-* 🔭 I'm Franklin
+* 🔭 I'm Franklin Karanja
 * 🌱 I'm currently a Student doing Computer Science
 * 📫 How to reach me: franklinkaranja747@gmail.com
 * ⚡ Fun fact: I'm a car enthusiast
